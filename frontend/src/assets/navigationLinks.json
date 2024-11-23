@@ -1,0 +1,4 @@
+[
+  { "name": "Home", "link": "/courses/:id" },
+  { "name": "Settings", "link": "" }
+]
